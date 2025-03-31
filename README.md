@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @farangiz
-- 👀 I’m interested in backend
+- 👋 Hi, I’m Farangiz
+- 👀 I’m interested in Backend
 - 🌱 I’m currently learning Front-end
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on...
 - 📫 How to reach me farangiz.saidova778@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...

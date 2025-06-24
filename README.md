@@ -1,6 +1,6 @@
 -  I’m Farangiz
 -  I’m interested in Data science and Backend
--  I’m currently learning Front-end
+-  I’m currently learning Front-end HTML,CSS,Javascript and Bootstrap5
 -  How to reach me farangiz.saidova778@gmail.com
 
 

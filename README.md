@@ -1,5 +1,5 @@
 -  Hi, I’m Farangiz
--  I’m interested in Backend
+-  I’m interested in Data science and Backend
 -  I’m currently learning Front-end
 -  How to reach me farangiz.saidova778@gmail.com
 
